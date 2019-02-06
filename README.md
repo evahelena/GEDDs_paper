@@ -1,3 +1,3 @@
-# GEDDs flips and energy function scripts
+# Scripts for GEDDs paper
 
-There are the scripts written by Edvinas Pakanavicius
+These scripts have been written by Edvinas Pakanavicius for the statistical analysis of GEDDs.
