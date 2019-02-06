@@ -27,11 +27,12 @@ Python packages can be installed using pip.
 ## Demo
 Run the script by typing the following on command line:  
 python flips.py 1 test_data.txt  
+
 The number '1' indicates the chromosome number. The test data only has data from chr1.  
-Note that the script is dependent on the order of the columns and the data cannot contain column names.
+Note that the script is dependent on the order of the columns and the data cannot contain column names.  
 The script takes a few minutes to run on a standard desktop computer. It outputs a .png file.
 
 
 ## Instructions to use
-python flips.py <CHRNUM> <INPUTFILENAME>  
-python energy.py <CHRNUM> <INPUTFILENAME>  
+python flips.py CHRNUM INPUTFILENAME  
+python energy.py CHRNUM INPUTFILENAME  
